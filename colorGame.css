@@ -63,3 +63,10 @@ button:hover{
     color: white;
     background-color: steelblue;
 }
+a{
+    color: steelblue;
+    text-decoration: none; 
+}
+a:hover{
+    color: white;
+}
